@@ -6,5 +6,6 @@ OAI_Install_script peut ne pas fonctionner, l'installation d'OAI pour le projet 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Contains installation scripts, an ARDUINO program to retrieve information from a SIM card and an ARDUINO program to test connection to an LTE network.
+
 OAI_Install_script can malfunction, the installation of OAI for the project contains the editing of configurations file.
 
