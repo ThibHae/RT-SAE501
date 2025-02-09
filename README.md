@@ -9,3 +9,8 @@ Contains installation scripts, an ARDUINO program to retrieve information from a
 
 OAI_Install_script can malfunction, the installation of OAI for the project contains the editing of configurations file.
 
+-----------------------------------------------------------------------------------------------------------------------------------
+
+ThibHae
+YoanGis
+
